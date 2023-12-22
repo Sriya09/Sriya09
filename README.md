@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Block chain**
 
-- 👨‍💻 All of my projects are available at [https://singh-shreya.w3spaces.com](https://singh-shreya.w3spaces.com)
-
 - 💬 Ask me about **react node competitive programming**
 
 - 📫 How to reach me **shreya09022001@gmail.com**
